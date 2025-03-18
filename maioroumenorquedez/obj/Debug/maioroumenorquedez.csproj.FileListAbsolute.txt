@@ -1,0 +1,10 @@
+C:\Users\camila.greis1\source\programadordesistemas\maioroumenorquedez\bin\Debug\maioroumenorquedez.exe.config
+C:\Users\camila.greis1\source\programadordesistemas\maioroumenorquedez\bin\Debug\maioroumenorquedez.exe
+C:\Users\camila.greis1\source\programadordesistemas\maioroumenorquedez\bin\Debug\maioroumenorquedez.pdb
+C:\Users\camila.greis1\source\programadordesistemas\maioroumenorquedez\obj\Debug\maioroumenorquedez.csproj.AssemblyReference.cache
+C:\Users\camila.greis1\source\programadordesistemas\maioroumenorquedez\obj\Debug\maioroumenorquedez.Properties.Resources.resources
+C:\Users\camila.greis1\source\programadordesistemas\maioroumenorquedez\obj\Debug\maioroumenorquedez.csproj.GenerateResource.cache
+C:\Users\camila.greis1\source\programadordesistemas\maioroumenorquedez\obj\Debug\maioroumenorquedez.csproj.CoreCompileInputs.cache
+C:\Users\camila.greis1\source\programadordesistemas\maioroumenorquedez\obj\Debug\maioroumenorquedez.exe
+C:\Users\camila.greis1\source\programadordesistemas\maioroumenorquedez\obj\Debug\maioroumenorquedez.pdb
+C:\Users\camila.greis1\source\programadordesistemas\maioroumenorquedez\obj\Debug\maioroumenorquedez.frmMaiorouMenor.resources

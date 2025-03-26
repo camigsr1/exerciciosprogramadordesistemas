@@ -1,0 +1,10 @@
+C:\Users\rhuan.cacarmo\source\programadordesistemas\calculadoracompleta\bin\Debug\calculadoracompleta.exe.config
+C:\Users\rhuan.cacarmo\source\programadordesistemas\calculadoracompleta\bin\Debug\calculadoracompleta.exe
+C:\Users\rhuan.cacarmo\source\programadordesistemas\calculadoracompleta\bin\Debug\calculadoracompleta.pdb
+C:\Users\rhuan.cacarmo\source\programadordesistemas\calculadoracompleta\obj\Debug\calculadoracompleta.csproj.AssemblyReference.cache
+C:\Users\rhuan.cacarmo\source\programadordesistemas\calculadoracompleta\obj\Debug\calculadoracompleta.frmCalculadoraCompleta.resources
+C:\Users\rhuan.cacarmo\source\programadordesistemas\calculadoracompleta\obj\Debug\calculadoracompleta.Properties.Resources.resources
+C:\Users\rhuan.cacarmo\source\programadordesistemas\calculadoracompleta\obj\Debug\calculadoracompleta.csproj.GenerateResource.cache
+C:\Users\rhuan.cacarmo\source\programadordesistemas\calculadoracompleta\obj\Debug\calculadoracompleta.csproj.CoreCompileInputs.cache
+C:\Users\rhuan.cacarmo\source\programadordesistemas\calculadoracompleta\obj\Debug\calculadoracompleta.exe
+C:\Users\rhuan.cacarmo\source\programadordesistemas\calculadoracompleta\obj\Debug\calculadoracompleta.pdb

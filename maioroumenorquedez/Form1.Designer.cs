@@ -1,7 +1,7 @@
 ﻿
 namespace maioroumenorquedez
 {
-    partial class frmMaiorouMenor
+    partial class frmMaiorOuMenor
     {
         /// <summary>
         /// Variável de designer necessária.
@@ -29,49 +29,39 @@ namespace maioroumenorquedez
         /// </summary>
         private void InitializeComponent()
         {
-            this.lblTitulo = new System.Windows.Forms.Label();
-            this.txtNum = new System.Windows.Forms.TextBox();
-            this.btnExibir = new System.Windows.Forms.Button();
+            this.txtMaiorOuMenorQue = new System.Windows.Forms.TextBox();
+            this.bntVerificar = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
-            // lblTitulo
+            // txtMaiorOuMenorQue
             // 
-            this.lblTitulo.AutoSize = true;
-            this.lblTitulo.Font = new System.Drawing.Font("Bahnschrift", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblTitulo.Location = new System.Drawing.Point(153, 41);
-            this.lblTitulo.Name = "lblTitulo";
-            this.lblTitulo.Size = new System.Drawing.Size(226, 23);
-            this.lblTitulo.TabIndex = 0;
-            this.lblTitulo.Text = "É maior ou menor que 10?";
+            this.txtMaiorOuMenorQue.Location = new System.Drawing.Point(113, 64);
+            this.txtMaiorOuMenorQue.Name = "txtMaiorOuMenorQue";
+            this.txtMaiorOuMenorQue.Size = new System.Drawing.Size(96, 20);
+            this.txtMaiorOuMenorQue.TabIndex = 0;
+            this.txtMaiorOuMenorQue.Text = "Digite um número";
+            this.txtMaiorOuMenorQue.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
-            // txtNum
+            // bntVerificar
             // 
-            this.txtNum.Location = new System.Drawing.Point(157, 96);
-            this.txtNum.Name = "txtNum";
-            this.txtNum.Size = new System.Drawing.Size(222, 20);
-            this.txtNum.TabIndex = 1;
+            this.bntVerificar.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.bntVerificar.Location = new System.Drawing.Point(124, 123);
+            this.bntVerificar.Name = "bntVerificar";
+            this.bntVerificar.Size = new System.Drawing.Size(75, 23);
+            this.bntVerificar.TabIndex = 2;
+            this.bntVerificar.Text = "Verificar";
+            this.bntVerificar.UseVisualStyleBackColor = true;
+            this.bntVerificar.Click += new System.EventHandler(this.bntVerificar_Click);
             // 
-            // btnExibir
-            // 
-            this.btnExibir.BackColor = System.Drawing.Color.PaleTurquoise;
-            this.btnExibir.Location = new System.Drawing.Point(235, 123);
-            this.btnExibir.Name = "btnExibir";
-            this.btnExibir.Size = new System.Drawing.Size(75, 23);
-            this.btnExibir.TabIndex = 2;
-            this.btnExibir.Text = "Exibir";
-            this.btnExibir.UseVisualStyleBackColor = false;
-            this.btnExibir.Click += new System.EventHandler(this.btnExibir_Click);
-            // 
-            // frmMaiorouMenor
+            // frmMaiorOuMenor
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(535, 226);
-            this.Controls.Add(this.btnExibir);
-            this.Controls.Add(this.txtNum);
-            this.Controls.Add(this.lblTitulo);
-            this.Name = "frmMaiorouMenor";
-            this.Text = "É maior ou menor que 10?";
+            this.ClientSize = new System.Drawing.Size(322, 209);
+            this.Controls.Add(this.bntVerificar);
+            this.Controls.Add(this.txtMaiorOuMenorQue);
+            this.Name = "frmMaiorOuMenor";
+            this.Text = "Maior ou Menor Que Dez?";
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -79,9 +69,8 @@ namespace maioroumenorquedez
 
         #endregion
 
-        private System.Windows.Forms.Label lblTitulo;
-        private System.Windows.Forms.TextBox txtNum;
-        private System.Windows.Forms.Button btnExibir;
+        private System.Windows.Forms.TextBox txtMaiorOuMenorQue;
+        private System.Windows.Forms.Button bntVerificar;
     }
 }
 

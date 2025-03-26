@@ -10,39 +10,35 @@ using System.Windows.Forms;
 
 namespace maioroumenorquedez
 {
-    public partial class frmMaiorouMenor : Form
+    public partial class frmMaiorOuMenor : Form
     {
-        public frmMaiorouMenor()
+        public frmMaiorOuMenor()
         {
             InitializeComponent();
         }
 
-        private void btnExibir_Click(object sender, EventArgs e)
+        private void label1_Click(object sender, EventArgs e)
         {
-            string letra = txtNum.Text;
-            bool sucesso = int.TryParse(letra, out int numero);
 
-            if (sucesso)
+        }
+
+        private void bntVerificar_Click(object sender, EventArgs e)
+        {
+            if (int.TryParse(txtMaiorOuMenorQue.Text, out int numero))
             {
-                if (numero > 10)
+                if (numero >= 10)
                 {
-                    MessageBox.Show("Maior que 10");
-
-                }else if (numero < 10)
+                    MessageBox.Show("Esse número é maior ou igual a dez","Maior",MessageBoxButtons.OK,MessageBoxIcon.Information);
+                }
+                else
                 {
-                    MessageBox.Show("Menor que 10");
-
-                }else
-                {
-                    MessageBox.Show("É igual a 10");
-
+                    MessageBox.Show("Esse número é menor que dez","Menor",MessageBoxButtons.OK,MessageBoxIcon.Information);
                 }
             }
             else
             {
-                MessageBox.Show("ERRO: Você colocou letra ou caractere", "ERRO", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show("Por favor, insira um número válido.");
             }
-
         }
     }
 }

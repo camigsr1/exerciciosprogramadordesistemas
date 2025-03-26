@@ -16,7 +16,7 @@ namespace maioroumenorquedez
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmMaiorouMenor());
+            Application.Run(new frmMaiorOuMenor());
         }
     }
 }

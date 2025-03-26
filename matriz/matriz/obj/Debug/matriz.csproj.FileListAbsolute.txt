@@ -1,0 +1,10 @@
+C:\Users\rhuan.cacarmo\source\ExerciciosDeSistema\matriz\matriz\bin\Debug\matriz.exe.config
+C:\Users\rhuan.cacarmo\source\ExerciciosDeSistema\matriz\matriz\bin\Debug\matriz.exe
+C:\Users\rhuan.cacarmo\source\ExerciciosDeSistema\matriz\matriz\bin\Debug\matriz.pdb
+C:\Users\rhuan.cacarmo\source\ExerciciosDeSistema\matriz\matriz\obj\Debug\matriz.csproj.AssemblyReference.cache
+C:\Users\rhuan.cacarmo\source\ExerciciosDeSistema\matriz\matriz\obj\Debug\matriz.frmMatriz.resources
+C:\Users\rhuan.cacarmo\source\ExerciciosDeSistema\matriz\matriz\obj\Debug\matriz.Properties.Resources.resources
+C:\Users\rhuan.cacarmo\source\ExerciciosDeSistema\matriz\matriz\obj\Debug\matriz.csproj.GenerateResource.cache
+C:\Users\rhuan.cacarmo\source\ExerciciosDeSistema\matriz\matriz\obj\Debug\matriz.csproj.CoreCompileInputs.cache
+C:\Users\rhuan.cacarmo\source\ExerciciosDeSistema\matriz\matriz\obj\Debug\matriz.exe
+C:\Users\rhuan.cacarmo\source\ExerciciosDeSistema\matriz\matriz\obj\Debug\matriz.pdb
